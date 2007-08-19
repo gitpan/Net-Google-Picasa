@@ -1,0 +1,6 @@
+Revision history for Perl extension Net::Google::Picasa.
+
+0.01  Fri Aug 17 23:25:57 2007
+	- original version; created by h2xs 1.23 with options
+		-AXc -n Net::Google::Picasa
+

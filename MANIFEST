@@ -1,0 +1,7 @@
+Changes
+Makefile.PL
+MANIFEST
+README
+t/Net-Google-Picasa.t
+lib/Net/Google/Picasa.pm
+META.yml                                 Module meta-data (added by MakeMaker)
